@@ -1,5 +1,7 @@
 # calculadora_dart
 
+![Demonstração da Calculadora](Gravando%2026-09-13%234750.gif)
+
 A new Flutter project.
 
 ## Getting Started
