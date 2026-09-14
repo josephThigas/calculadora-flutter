@@ -1,6 +1,6 @@
 # calculadora_dart
 
-![Demonstração da Calculadora](nome_do_seu_gif.gif)
+![Demonstração da Calculadora](Gravando 2026-09-13 234750.gif)
 
 A new Flutter project.
 
